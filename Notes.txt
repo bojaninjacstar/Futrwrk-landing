@@ -1,4 +1,4 @@
 Notes:
   Added some new targets: S0015, S0025, S0030, S0031, S0032.
   S0030 is S0025's copy version.
-  S0031 is good trader.
+  S0031, S0032 are good trader.
